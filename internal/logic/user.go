@@ -29,4 +29,9 @@ func D() {
 	db := dao.Article.Ctx(ctx).Where("")
 	db = db.Where("")
 	db.Where("")
+	db = db.Where("")
+}
+
+func E() {
+	dao.Article.Ctx(ctx).Where("")
 }
