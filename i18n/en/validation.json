@@ -5,5 +5,6 @@
   },
   "rule.required-with": "{field}字段不能为空",
   "rule.required-with-all": "{field}字段不能为空",
-  "rule.required-without": "{field}字段不能为空"
+  "rule.required-without": "{field}字段不能为空",
+  "many": "many text"
 }

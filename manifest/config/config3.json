@@ -3,5 +3,10 @@
   "user": {
     "name": "oldme",
     "email": "tyyn1022@gmail.com"
+  },
+  "openDoor": true,
+  "logger": {
+    "level": "all",
+    "stdout": true
   }
 }
