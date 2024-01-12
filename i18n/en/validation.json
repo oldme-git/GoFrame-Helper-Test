@@ -1,0 +1,9 @@
+{
+  "rule.required": {
+    "rule.required-if": "{field}字段不能为空",
+    "rule.required-unless": "{field}字段不能为空"
+  },
+  "rule.required-with": "{field}字段不能为空",
+  "rule.required-with-all": "{field}字段不能为空",
+  "rule.required-without": "{field}字段不能为空"
+}
