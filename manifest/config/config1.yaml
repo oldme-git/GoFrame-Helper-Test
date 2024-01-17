@@ -8,3 +8,5 @@ logger:
   - stdout: true
 
 debug: true
+
+openDoor: false

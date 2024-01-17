@@ -9,8 +9,8 @@ func i18nA() {
 		i18n = gi18n.New()
 	)
 
-	i18n.T(ctx, "gf.gvalid.rule.mac")
-	i18n.Tf(ctx, "gf.gvalid.rule.mac")
+	i18n.T(ctx, "many")
+	i18n.Tf(ctx, "gf.gvalid.rule.domain")
 	i18n.Translate(ctx, "gf.gvalid.rule.mac")
 	i18n.TranslateFormat(ctx, "gf.gvalid.rule.mac")
 }
