@@ -4,6 +4,7 @@ import "github.com/gogf/gf/v2/frame/g"
 
 type GetReq struct {
 	g.Meta `path:"" method:""`
+	s string `v:""`
 }
 
 type GetRes struct {
