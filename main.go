@@ -3,7 +3,7 @@ package main
 import (
 	_ "GoFrame-Helper-Test/internal/packed"
 
-	_ "GoFrame-Helper-Test/internal/logic/logic.go"
+	_ "GoFrame-Helper-Test/internal/logic"
 
 	"github.com/gogf/gf/v2/os/gctx"
 
